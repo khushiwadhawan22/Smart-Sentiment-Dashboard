@@ -34,4 +34,7 @@ A lightweight and professional web application that classifies employee feedback
 
 ---
 
+## How to Run
 
+```bash
+streamlit run dashboard.py
